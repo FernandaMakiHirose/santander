@@ -1,4 +1,4 @@
-# Recriar a Tela Inicial do App de Santander em um Aplicativo Kotlin
+# Recriar a tela inicial do app do Santander em um aplicativo kotlin
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
