@@ -1,8 +1,12 @@
 # Recriar a tela inicial do app do Santander em um aplicativo kotlin
-1. Preparação do ambiente e criação do primeiro App
-3. Layouts e diretrizes de design
-4. Padrões arquiteturais e boas práticas de desenvolvimento
-5. Monitoramento e publicação de Apps Android
+1. Preparação do ambiente e criação do primeiro App.
+3. Layouts e diretrizes de design.
+4. Padrões arquiteturais e boas práticas de desenvolvimento.
+5. Monitoramento e publicação de Apps Android.
+
+## Pré-requisitos
+- Android Studio instalado. 
+- Conceitos de Orientação a Objetos.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
