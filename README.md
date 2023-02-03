@@ -4,9 +4,4 @@
 4. Padrões arquiteturais e boas práticas de desenvolvimento.
 5. Monitoramento e publicação de Apps Android.
 
-## Requisitos
-- Android Studio instalado. 
-- Conceitos de Orientação a Objetos.
-
-## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+![Screenshot_45](https://user-images.githubusercontent.com/72028645/216707803-116b7e94-7192-49b7-b648-be8e606b62f7.png)
