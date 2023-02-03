@@ -4,5 +4,4 @@
 4. Padrões arquiteturais e boas práticas de desenvolvimento.
 5. Monitoramento e publicação de Apps Android.
 
-![WhatsApp Image 2023-02-03 at 17 48 03](https://user-images.githubusercontent.com/72028645/216707871-fb190d09-0619-4b93-b77a-34b7f9480e51.jpeg)
-
+![WhatsApp Image 2023-02-03 at 17 48 03](https://user-images.githubusercontent.com/72028645/216708018-0d2908a2-fd1b-45ab-9300-16aa7c621a07.jpeg)
